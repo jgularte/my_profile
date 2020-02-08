@@ -1,0 +1,17 @@
+.custom-btn-primary {
+  background-color: #e8f0fe;
+  border-color: lightsteelblue;
+  color: black;
+}
+
+.custom-btn-danger {
+  background-color: darksalmon;
+  border-color: indianred;
+  color: black;
+}
+
+.custom-btn-warning {
+  background-color: khaki;
+  border-color: darkkhaki;
+  color: black;
+}
